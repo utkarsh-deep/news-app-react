@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "author": "Jeff St. John",
+      "title": "The Rules for Early-Stage Cleantech Venture Capital Investment in 2021",
+      "description": "Clean technology venture capital investment strategies for the next decade will look much different than those of the past two decades. \n\nIn the first wave of venture green technology investing, firms sunk billions of dollars into companies whose success depe",
+      "category": "Technology"
+    },
+    {
+      "id": 2,
+      "author": "Lauren Fruen",
+      "title": "Gamestop shares jump as much as 18% in premarket trading with Reddit-fueled volatility continuing",
+      "description": "Small-time investors have driven a 1,600% rally in the game retailer's shares. By Monday a volatile pre market saw Gamestop's shares rise by as much as 18%; they were last down about 1.4%",
+      "category": "Sports"
+    },
+    {
+      "id": 3,
+      "author": "Zeus Gottlieb",
+      "title": "EKA Solutions Powers Complete Digitization for Small Businesses",
+      "description": "SALT LAKE CITY, Feb. 1, 2021 /PRNewswire/ -- EKA Solutions Inc, the industry leading provider of cloud-based integrated freight management ecosystem for carriers, brokers and shippers, celebrates the success of its cutting-edge transportation and logistics so",
+      "category": "Weather"
+    },
+    {
+      "id": 4,
+      "author": "Bradley Keoun",
+      "title": "First Mover: Silver Is the New GameStop as Musk’s #Bitcoin Stalls",
+      "description": "As bitcoin trades in a range, traders are studying the \"Grayscale premium\" and watching traditional markets for clues to the next market move.",
+      "category": "Technology"
+    },
+    {
+      "id": 5,
+      "author": "RTÉ News",
+      "title": "Timeline - Silver surges as GameStop mania spills over",
+      "description": "Silver prices surged to a five-month high today, silver-mining stocks leapt and coin-selling websites were swamped as small-time investors scooped up the metal, the latest target of a retail-trading frenzy that has unnerved financial markets.",
+      "category": "Entertainment"
+    },
+    {
+      "author": "Utkarsh Deep",
+      "title": "Heavy rains likely in Tamil Nadu, Kerala, Lakshadweep over next 3 days",
+      "description": "Parts of South India — particularly Tamil Nadu, Kerala, and Lakshadweep — are likely to receive widespread rainfall over the next three days, according to the Indian Meteorological Department (IMD). However, the rainfall activity is predicted to decrease considerably from January 13th, the weather department added.",
+      "category": "Weather",
+      "id": 6
+    },
+    {
+      "author": "UD",
+      "title": "Cricket",
+      "description": "XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ XYZ ",
+      "category": "Sports",
+      "id": 7
+    }
+  ]
+}

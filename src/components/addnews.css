@@ -1,0 +1,89 @@
+.add-news-container {
+  height: 80vh;
+  width: 70vw;
+  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+  padding: 0;
+  border-radius: 10px;
+  margin: 10vh auto auto;
+}
+
+.add-news-container .cover {
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.2)
+  );
+  display: flex;
+  flex-direction: row;
+}
+
+.add-news-container .cover .form {
+  height: 100%;
+  width: 70%;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.add-news-container .cover .imageorvideos {
+  width: 30%;
+}
+
+.label {
+  font-size: 18px;
+  padding: 10px;
+  width: 90%;
+  background: #3cccb2;
+  padding-left: 100px;
+  margin-top: 20px;
+  margin-left: -50px;
+  color: white;
+}
+
+.form form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 20px !important;
+  padding-right: 20px;
+  font-size: 14px;
+}
+
+.form form input,
+.form form select,
+.form form textarea,
+.form form select option {
+  outline: 0;
+  border: 0;
+  background: transparent;
+}
+
+.form form input {
+  text-align: right;
+  border-bottom: 1px rgba(0, 0, 0, 0.3) solid;
+}
+.form form textarea {
+  text-align: right;
+  border-bottom: 1px rgba(0, 0, 0, 0.3) solid;
+}
+
+.contain {
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+}
+
+.contain p {
+  margin: 0;
+}
+
+.form button {
+  margin-top: 20px;
+  align-self: center;
+  width: fit-content;
+  border: none;
+  background: #3cccb2;
+  border-radius: 10px;
+  font-size: medium;
+  padding: 10px 60px;
+}

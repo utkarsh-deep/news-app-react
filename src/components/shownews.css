@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap");
+
+.heading {
+  padding: 10vh 0 1vh;
+  text-align: center;
+}
+
+.details {
+  margin: 5vh 18vw;
+  align-items: center;
+  border-radius: 8px;
+  border: 0px solid #4b3f3f;
+  box-shadow: 0 10px 20px rgb(0 0 0 / 40%);
+  background: #ece9e6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #ece9e6,
+    #ffffff,
+    #ece9e6
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #ece9e6,
+    #ffffff,
+    #ece9e6
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.details .Technology {
+  background: url("../images/tech.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.details .Sports {
+  background: url("../images/sport.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.details .Entertainment {
+  background: url("../images/entertainment.jpeg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.details .Weather {
+  background: url("../images/weather.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.details .cover {
+  background: rgba(0, 0, 0, 0.15);
+  width: 100%;
+  height: 100%;
+  padding: 40px 40px 20px;
+  text-align: right;
+  border-radius: 8px;
+  height: 30vh;
+  font-size: large;
+  font-weight: bold;
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.details .description {
+  padding: 40px 40px 15px;
+}
